@@ -1,2 +1,2 @@
 # Operating-Systems-AGH-UST
-Solutions to lectures
+Solutions to exercises in C language
