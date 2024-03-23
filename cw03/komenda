@@ -1,0 +1,1 @@
+diff -s reversedFile.txt <(tac < testInput.txt | rev)
